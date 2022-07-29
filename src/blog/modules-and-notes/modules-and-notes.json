@@ -1,0 +1,8 @@
+{
+    "layout": "post.njk",
+    "author": "Andrew Weisbeck",
+    "tags": ["modules", "notes", "blog"],
+    "tag": ["modules-and-notes"],
+    "categorySlug": "modules-and-notes/",
+    "categoryName": "Modules & Notes"
+}
